@@ -11,12 +11,16 @@
   "dependencies": {
     "@ffmpeg/core": "^0.12.4",
     "@ffmpeg/ffmpeg": "^0.10.1",
+    "@xzdarcy/react-timeline-editor": "^0.1.9",
+    "antd": "^5.11.3",
+    "lodash": "^4.17.21",
     "next": "14.0.1",
     "react": "^18",
     "react-dom": "^18",
     "video.js": "^8.6.1"
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.202",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
